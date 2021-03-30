@@ -1,7 +1,7 @@
 ![](https://media.discordapp.net/attachments/823983275655692310/826436205129498645/DFD16973-53E1-4DE0-AEB4-862A510CCE34.png)
 
 ## 🌟 Hello There!
-My name is Juliano! I'm a programmer and developer of Discord [RobbyBot](https://discord.com/oauth2/authorize?client_id=808348745271869482&scope=bot&permissions=2080383166) ! 💻! 
+My name is Juliano! I'm a programmer and developer of Discord [RobbyBot](https://discord.com/oauth2/authorize?client_id=808348745271869482&scope=bot&permissions=2080383166) 💻! 
 ## 🖥 Languages:
 JavaScript | Java | HTML | And learning phyton!
 ## ❓ Needing help?
