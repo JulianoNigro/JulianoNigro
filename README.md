@@ -3,7 +3,7 @@
 ## 🌟 Hello There!
 My name is Juliano! I'm a programmer and developer of Discord [RobbyBot](https://discord.com/oauth2/authorize?client_id=808348745271869482&scope=bot&permissions=2080383166) ! 💻! 
 ## 🖥 Languages:
-JavaScript | Java | HTLM | And learning phyton!
+JavaScript | Java | HTML | And learning phyton!
 ## ❓ Needing help?
 If you need any help, You can contact me on discord! **JulianoNigro#0002** .
 ## 🗯 Discord Community
