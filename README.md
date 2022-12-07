@@ -9,6 +9,6 @@ If you need any help, You can contact me on discord! **julianoo#9279** .
 ## 🗯 Discord Community
 Did you know that I have a Discord game community? You can join clicking [here](https://discord.gg/CcVgxpwvKP) !
 ## 🔗 Useful Links
-[Robby's House](https://discord.gg/ZGw63Eq95z) [Add Robby](https://discord.com/api/oauth2/authorize?client_id=957308921457041480&permissions=8&scope=bot)
+[Robby's House](https://discord.gg/ZGw63Eq95z) | [Add Robby](https://discord.com/api/oauth2/authorize?client_id=957308921457041480&permissions=8&scope=bot)
 ## 🐦 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JulianoNigro&show_icons=true&theme=transparent)
